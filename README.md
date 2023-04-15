@@ -7,11 +7,10 @@
 😃 I’m looking to connect with other like-minded people (maybe I'll finally be able to master programming!)
 📫 Business enquiries: najmajmal.business@gmail.com
 ⚡ Fun fact: I love reading books and watching movies!
-🌐 Socials:
-Instagram Gmail
 
-💻 Tech Stack:
-CSS3 HTML5 JavaScript Python NodeJS
+
+## 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 📊 GitHub Stats:
 <p float='left'>
