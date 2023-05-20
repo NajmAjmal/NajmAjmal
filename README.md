@@ -30,3 +30,5 @@
 <p>
   <img width="97.5%" src="https://github.com/NajmAjmal/NajmAjmal/raw/main/projects.gif" alt="Arrow Pointing Down at projects" />
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=130285427)
