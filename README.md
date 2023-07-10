@@ -21,7 +21,6 @@
 
 <a href="https://github.com/NajmAjmal">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=NajmAjmal&title_color=ffb000&text_color=ffb000&show_icons=true&bg_color=00000000&hide_border=true&icon_color=03fe15&hide_title=true&count_private=true" />
     <img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=NajmAjmal&theme=vision-friendly-dark&hide_border=true"/>
     <img height="210" src="https://github-readme-stats-alexlostorto.vercel.app/api/top-langs?username=NajmAjmal&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
   </p>
