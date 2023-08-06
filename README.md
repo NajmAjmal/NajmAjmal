@@ -2,8 +2,7 @@
 
 <p align="center">Call me Najm Ajmal!</p>
 
-- 🔭 I’m currently working on Sparxmaths Solver
-- 🌱 I’m currently learning Python and other web development frameworks
+- 🔭 I’m currently working on [Pi-scripts](https://github.com/NajmAjmal/pi-scripts)
 - 😃 I’m looking to create plenty of useful projects
 - ⚡ Fun fact: I love everything Computing
 
