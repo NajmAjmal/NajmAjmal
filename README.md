@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/NajmAjmal/NajmAjmal/raw/main/lang.gif" alt="lang image here" /></p>
 
-<p align="center">Call me Najm Ajmal!</p>
+<p align="center">Hi, I'm Najm Ajmal!</p>
 
 - 🔭 I’m currently working on [Pi-scripts](https://github.com/NajmAjmal/pi-scripts)
 - 😃 I’m looking to create plenty of useful projects
