@@ -7,7 +7,40 @@
 - ⚡ Fun fact: I love everything Computing
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
+<h3
+    align="center"
+    style="font-weight: bold">
+    Languages
+</h3>
+<div
+    align="center"
+    style="margin-top: 10px">
+    <img
+        src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,md,bash&theme=dark" />
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Frameworks
+</h3>
+<div
+    align="center">
+    <img
+        src="https://skillicons.dev/icons?i=electron&theme=dark" />
+</div>
+
+<h3
+    align="center"
+    style="font-weight: bold">
+    Tools
+</h3>
+<div
+    align="center">
+    <img
+        src="https://skillicons.dev/icons?i=vscode,git,github,codepen,docker,linux,raspberrypi,replit&theme=dark" />
+</div>
+
 
 
 ## 🏆 Milestones
