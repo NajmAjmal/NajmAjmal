@@ -2,7 +2,7 @@
 
 <p align="center">Hi, I'm Najm Ajmal!</p>
 
-- 🔭 I’m currently working on [Pi-scripts](https://github.com/NajmAjmal/pi-scripts)
+- 🔭 I’m currently working on [PWA-template](https://github.com/NajmAjmal/pwa-template).
 - 😃 I’m looking to create plenty of useful projects
 - ⚡ Fun fact: I love everything Computing
 
