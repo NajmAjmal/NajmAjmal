@@ -58,7 +58,7 @@
 
 <a href="https://github.com/NajmAjmal">
   <p align="center">
-    <img height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=NajmAjmal&theme=vision-friendly-dark&hide_border=true"/>
+    <img height="210" src="https://najmajmal-streak.vercel.app/?user=NajmAjmal&theme=vision-friendly-dark&hide_border=true"/>
     <img height="210" src="https://github-readme-stats-alexlostorto.vercel.app/api/top-langs?username=NajmAjmal&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
   </p>
 </a>
