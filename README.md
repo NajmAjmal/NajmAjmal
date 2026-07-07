@@ -42,11 +42,6 @@
 </div>
 
 
-
-## 🏆 Milestones
-1000 Commits [View me](https://github.com/SintcoLTD/url/commit/1dfaac058c861ae25420ad1e3af3892e4a90ea46)
-
-
 ## 📊 GitHub Stats:
 
 <a href="https://github.com/NajmAjmal">
